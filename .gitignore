@@ -10,4 +10,3 @@
 
 # Built Visual Studio Code Extensions
 *.vsix
-.vscode/c_cpp_properties.json
