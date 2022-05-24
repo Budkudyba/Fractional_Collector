@@ -11,6 +11,7 @@ The sampler has two attached parastaltic pumps with stepper motors and a sample 
 The sample tray has room for 64 small eppendorf (1.5 mL).  
   
 Here's a version of the sampler to show the basic form:  
+![fractional_collector_FINAL_SHOW](https://user-images.githubusercontent.com/592299/170140898-2c0a126c-57da-4198-8721-575a3aaff1b9.png)
   
 https://a360.co/2QkRquD
   
