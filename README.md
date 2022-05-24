@@ -1,16 +1,14 @@
 # Fractional_Collector
 
-A novel spin on fractional collection.
-
-Based upon the Ramps 1.4 board for 3D printers.
-
-The sampler takes samples based upon a RTC (real-time clock).
-
-The sampler has two attached parastaltic pumps with stepper motors and a tray which is also powered by a stepper motor.
-
-The project is completed, but there will be updates upcoming to include a BOM, STL files, CAD files, and documentation.
-
-I may rewite this code to remove dependancies on the arduino compiler and/or #include libraries but for simplicity and time constrainst this was the fastest way to code and build the project.
-
-Here's a version of the sampler to show the basic form
+A novel spin on fractional collection.  
+  
+Based upon the Ramps 1.4 board and Arduino Mega for 3D printers. DRV8825 Stepper Drivers were used.
+  
+The sampler takes samples based upon a RTC (real-time clock).  
+  
+The sampler has two attached parastaltic pumps with stepper motors and a sample tray which is also powered by a stepper motor.  
+The sample tray has room for 64 small eppendorf (1.5 mL).  
+  
+Here's a version of the sampler to show the basic form:  
+  
 https://a360.co/2QkRquD
