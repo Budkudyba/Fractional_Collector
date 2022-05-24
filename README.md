@@ -13,3 +13,9 @@ The sample tray has room for 64 small eppendorf (1.5 mL).
 Here's a version of the sampler to show the basic form:  
   
 https://a360.co/2QkRquD
+  
+   
+Libraries used:  
+https://github.com/adafruit/RTClib  
+https://github.com/olikraus/u8g2  
+https://github.com/laurb9/StepperDriver  
